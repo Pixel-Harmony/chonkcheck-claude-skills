@@ -1,0 +1,17 @@
+{
+  "name": "chonkcheck-skills",
+  "owner": {
+    "name": "Pixel Harmony"
+  },
+  "metadata": {
+    "description": "Shared Claude Code skills for ChonkCheck product development across web, mobile, and marketing platforms"
+  },
+  "plugins": [
+    {
+      "name": "chonkcheck-skills",
+      "source": ".",
+      "description": "UX design, full-stack development, and copywriting skills for ChonkCheck",
+      "version": "1.0.0"
+    }
+  ]
+}

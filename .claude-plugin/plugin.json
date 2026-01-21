@@ -1,0 +1,12 @@
+{
+  "name": "chonkcheck-skills",
+  "description": "Shared UX design, development, and copywriting skills for ChonkCheck projects",
+  "version": "1.0.0",
+  "author": {
+    "name": "Pixel Harmony",
+    "url": "https://pixelharmony.co.uk"
+  },
+  "homepage": "https://github.com/Pixel-Harmony/chonkcheck-claude-skills",
+  "repository": "https://github.com/Pixel-Harmony/chonkcheck-claude-skills",
+  "license": "PROPRIETARY"
+}
